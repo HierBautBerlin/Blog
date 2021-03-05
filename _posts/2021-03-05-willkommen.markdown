@@ -34,4 +34,4 @@ Ich werde die ersten Quellen auslesen und in die Datenbank schreiben.
 
 ## Das motiviert/bremst mich gerade
 
-Die vielen positiven Gespräche und die allgemeine Bereitschaft, Daten bereitzustellen ist sehr motivierend. Die Qualität der Datenquellen ist ebenfalls überraschend gut.
+Die vielen positiven Gespräche und die allgemeine Bereitschaft, Daten bereitzustellen, ist sehr motivierend. Die Qualität der Datenquellen ist ebenfalls überraschend gut.
