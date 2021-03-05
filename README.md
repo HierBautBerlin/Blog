@@ -1,2 +1,4 @@
-# blog
-Blog of hierbautberlin.de
+# HierBautBerlin Blog
+# Hier Baut Berlin Blog
+
+This is the blog of Hier Baut Berlin.

@@ -1,0 +1,15 @@
+name: Hier Baut Berlin
+description: Wir informieren Menschen über Bauvorhaben in ihrem Umfeld
+meta_description: "Wir informieren Menschen über Bauvorhaben in ihrem Umfeld"
+
+markdown: kramdown
+highlighter: rouge
+logo: false
+paginate: 15
+baseurl: /
+domain_name: "http://blog.hierbautberlin.de"
+plugins: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url: "http://blog.hierbautberlin.de"
+author: "Hier Baut Berlin"
