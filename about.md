@@ -14,5 +14,13 @@ Der Quelltext wird unter der MIT Lizenz auf [Github](https://github.com/hierbaut
 
 Dieses Projekt ist Teil der 9. Runde des [Prototype Fund](https://prototypefund.de/).
 
-[![Prototype Fund](/assets/images/support-prototype.png)](https://prototypefund.de)
-[![Bundesministerium für Bildung und Forschung](/assets/images/support-bmbf.png)](https://www.bmbf.de)  
+
+## Impressum
+
+Bodo Tasche  
+Richard-Sorge-Str. 59  
+10249 Berlin
+
+[+49 30 41728894](tel:+493041728894)
+
+[mail@hierbautberlin.de](mailto:mail@hierbautberlin.de)
