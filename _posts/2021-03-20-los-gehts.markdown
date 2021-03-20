@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Los geht’s"
+date:   2021-03-20 10:18:00
+categories: Statusupdate
+---
+Momentan arbeite ich nur zwei Tage in der Woche an HierBautBerlin. Es wird also in den nächsten Wochen zwar Updates geben, aber keine Riesensprünge. Die kommen dann im Juni/Juli. Versprochen.
+
+## Erledigt
+
+Ich habe zwei Meilensteine in Github angelegt und dort alle [mir bekannten Quellen angelegt](https://github.com/HierBautBerlin/website/milestones). Dafür habe ich die letzten zwei Wochen weiter mit Menschen geredet und mir das Okay der meisten Quellen geben lassen. Wenn du noch Ideen für weitere Quellen hast, erstelle gerne ein Ticket oder schreibe mich per [E-Mail](mailto:mail@hierbautberlin.de) an.
+
+Die erste Quelle ist auch [fast fertig implementiert](https://github.com/HierBautBerlin/website/pull/40). Ich kann nun schon die Daten von [InfraVelo](https://www.infravelo.de/) auslesen und in die Datenbank schreiben. Das bedeutet, das Grundgerüst der Datenbank ist jetzt vorhanden. Die nächsten Quellen werden nun einfacher implementierbar sein.
+
+Dankenswerterweise hat [Johannes](https://johannesfilter.com/) sich bereit erklärt, mit uns einen kleinen Mini-Workshop zu machen, um sein [pd3f Tool](https://pd3f.com/) vorzustellen. Damit sollte das Parsen der PDF-Dateien um einiges komfortabler werden. Zum Glück gibt es bis jetzt allerdings nur eine einzige Quelle mit PDFs. Das [Amtsblatt von Berlin](https://www.berlin.de/landesverwaltungsamt/logistikservice/amtsblatt-fuer-berlin/).
+
+## Das mache ich in den nächsten zwei Wochen
+
+Die Basisarbeiten sind so langsam erledigt. In den nächsten zwei Wochen gibt es noch einen UX Workshop mit [SimplySecure](https://simplysecure.org/), der dankenswerterweise vom [Prototyp Fund](https://prototypefund.de/) ermöglicht wird. Danach sollte ich auch eine gute Vorstellung vom Aufbau der Webseite haben. Aufgrund der schieren Menge an Daten ist die Kartendarstellung etwas kniffelig. Ich bin aber überzeugt, dass wir eine gute Darstellung finden werden.
+
+Hoffentlich werde ich es schaffen noch ein oder zwei weitere Quellen anbinden zu können.
+
+## Das motiviert/bremst mich gerade
+
+Die ersten Wochen eines Projektes sind voll mit Recherchen und dem Aufsetzen des Projektes. Ich freue mich schon, so langsam ins Programmieren zu wechseln und die Tickets abzuarbeiten. Los geht’s!

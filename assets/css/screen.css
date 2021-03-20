@@ -214,6 +214,7 @@ h1 {
 h2 {
     font-size: 2.6rem;
     letter-spacing: -1px;
+    margin-bottom: 2rem;
 }
 
 h3 {
@@ -768,7 +769,7 @@ body:not(.post-template) .post-title {
 
 .post-meta {
     display: block;
-    margin: 1.75rem 0 0 0;
+    margin: 1.75rem 0 1rem 0;
     font-family: "Open Sans", sans-serif;
     font-size: 1.5rem;
     line-height: 2.2rem;
@@ -1576,14 +1577,19 @@ body:not(.post-template) .post-title {
         line-height: 1.65em;
     }
 
-    .post-date {
-        display: none;
-    }
-
     .post-template .post-header {
         margin-bottom: 2rem;
     }
 
+    .home-template .post-date {
+        border-left: none;
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .home-template .post-date::before {
+        content: "- "
+    }
     .post-template .post-date {
         display: inline-block;
     }
