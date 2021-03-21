@@ -10,7 +10,7 @@ Momentan arbeite ich nur zwei Tage in der Woche an HierBautBerlin. Es wird also 
 
 Ich habe zwei Meilensteine in Github angelegt und dort alle [mir bekannten Quellen angelegt](https://github.com/HierBautBerlin/website/milestones). Dafür habe ich die letzten zwei Wochen weiter mit Menschen geredet und mir das Okay der meisten Quellen geben lassen. Wenn du noch Ideen für weitere Quellen hast, erstelle gerne ein Ticket oder schreibe mich per [E-Mail](mailto:mail@hierbautberlin.de) an.
 
-Die erste Quelle ist auch [fast fertig implementiert](https://github.com/HierBautBerlin/website/pull/40). Ich kann nun schon die Daten von [InfraVelo](https://www.infravelo.de/) auslesen und in die Datenbank schreiben. Das bedeutet, das Grundgerüst der Datenbank ist jetzt vorhanden. Die nächsten Quellen werden nun einfacher implementierbar sein.
+Die erste Quelle ist auch [fertig implementiert](https://github.com/HierBautBerlin/website/pull/40). Ich kann nun schon die Daten von [InfraVelo](https://www.infravelo.de/) auslesen und in die Datenbank schreiben. Das bedeutet, das Grundgerüst der Datenbank ist jetzt vorhanden. Die nächsten Quellen werden nun einfacher implementierbar sein.
 
 Dankenswerterweise hat [Johannes](https://johannesfilter.com/) sich bereit erklärt, mit uns einen kleinen Mini-Workshop zu machen, um sein [pd3f Tool](https://pd3f.com/) vorzustellen. Damit sollte das Parsen der PDF-Dateien um einiges komfortabler werden. Zum Glück gibt es bis jetzt allerdings nur eine einzige Quelle mit PDFs. Das [Amtsblatt von Berlin](https://www.berlin.de/landesverwaltungsamt/logistikservice/amtsblatt-fuer-berlin/).
 
