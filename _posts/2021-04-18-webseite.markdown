@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Webseite"
+date:   2021-04-18 10:18:00
+categories: Statusupdate
+---
+Wie schon [im letzten Blogpost](/statusupdate/2021/04/05/ui-workshop.html) angekündigt, arbeite ich momentan an der Webseite. Das Ganze wird sich auch noch etwas hinziehen, da dies ein recht komplexes Thema ist.
+
+## Erledigt
+
+Ich habe eine erste Version der Webseite erstellt. Das Layout fehlt zwar noch, aber das wichtigste ist schon vorhanden: Die zum aktuellen Kartenausschnitt passenden Daten werden geladen und angezeigt. Das ganze mit einer Technologie, die recht neu ist und ich noch nicht in einem echten Projekt eingesetzt habe bis jetzt. [Phoenix LiveView](https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5). Mit LiveView gibt es endlich eine elegante Möglichkeit, auf dem Server die Daten zu rendern und auf dem Client interaktive Element haben zu können. Die Technik funktioniert einwandfrei und wird mir viel Zeit sparen in den nächsten Wochen. 
+
+## Das mache ich in den nächsten zwei Wochen
+
+Webseite, Webseite und Webseite. Hoffentlich kann ich in vier Wochen eine erste Alpha-Version online stellen. Danach kümmere ich mich dann wieder um weitere Quellen. 
+
+## Das motiviert/bremst mich gerade
+
+Ich arbeite nebenbei in diesem Monat an [recover](https://www.recoverapp.de) mit, einer OpenSource Kontaktdatenliste. Dadurch werde ich leider etwas weniger Zeit in HierBautBerlin stecken können, aber das werde ich nachholen.
+
