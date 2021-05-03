@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Karte"
+date:   2021-05-03 10:18:00
+categories: Statusupdate
+---
+Die Karte nimmt so langsam Form an. 
+
+## Erledigt
+
+Die ersten Daten sind nun auch mit LiveView in der Karte angebunden:
+
+![Eine Karte von Berlin mit einigen Einträgen darunter](/assets/images/map.gif)
+
+Daneben habe ich mit Michael über die UX geredet. Was jetzt noch fehlt, ist das Design und der Popup-Dialog, wenn auf eines der Elemente auf der Karte geklickt wurde.
+
+## Das mache ich in den nächsten zwei Wochen
+
+Die Karte funktioniert, jetzt geht's ans Styling der Karte. Und dann an das Popup, wenn ein Element auf der Karte geklickt wird.
+
+## Das motiviert/bremst mich gerade
+
+Die API von MapBox ist leider etwas friemelig und nicht sehr gut dokumentiert. Aber nach ein wenig Fluchen habe ich nun etwas, das funktioniert.
