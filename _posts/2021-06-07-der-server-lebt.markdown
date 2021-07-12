@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Der Server Lebt"
-date:   2021-07-07 10:18:00
+date:   2021-06-07 10:18:00
 categories: Statusupdate
 ---
 In den letzten Wochen war ein wenig Funkstille, aber ab diesem Monat arbeite ich wirklich Vollzeit an HierBautBerlin. Und das wird sich hoffentlich bemerkbar machen.
