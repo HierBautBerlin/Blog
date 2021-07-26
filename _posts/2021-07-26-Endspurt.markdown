@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Endspurt"
+date:   2021-07-26 10:18:00
+categories: Statusupdate
+---
+Diese Woche ist die letzte Woche. Endspurt. Aber vorher noch kurz, was die letzten zwei Wochen geschah:
+
+## Erledigt
+
+Das Amtsblatt ist nun im Datenbestand, der Parser für die anderen Quellen wurde auch nochmals verbessert. Die Kartendarstellung ist nun auch um einiges schneller und braucht weniger Ressourcen. Ein Suchfeld zum Suchen einer Straße wurde eingebaut. Dabei wird nicht, wie sonst üblich, auf ein Tool von Google zurückgegriffen, sondern Datensparsam nur mit Daten in der eigenen Datenbank gearbeitet. 
+
+## Das mache ich in den nächsten zwei Wochen
+
+Ganz, ganz viel Performance, Bugs fixen und die Seite aufhübschen. Es gibt noch einiges an kleinen Baustellen, aber am Ende der Woche sollte ich hoffentlich so weit sein, HierBautBerlin aus dem Beta-Status zu entlassen 🥳 .
+
+## Das motiviert/bremst mich gerade
+
+Letzte Woche. Top motiviert. Los geht's!
